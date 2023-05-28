@@ -1,5 +1,5 @@
-![IMG_30F728B3B5B2-1](https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e)
-
+<a href="https://github.com/deliaswe/github-readme-stats">
+  <img align="center" width="65%" src="https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e" />
 
 ## Hello, I'm Delia! 👋🏽
 
@@ -11,9 +11,11 @@
 - Fun fact: I love traveling, nature, waterparks, and coding.
 
 ## Connect with me:
-- Email: deliamy1014@gmail.com
+Email: deliamy1014@gmail.com
+
 https://www.linkedin.com/in/delia-young-662801100/
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 https://twitter.com/Delia_marlena_
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
