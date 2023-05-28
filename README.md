@@ -4,7 +4,7 @@
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=deliaswe&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/deliaswe/convoychat">
-  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliaswe&hide_progress=true)](https://github.com/deliaswe/github-readme-stats" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliaswe&hide_progress=true" />
 </a>
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
