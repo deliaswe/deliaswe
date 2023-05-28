@@ -43,3 +43,8 @@ https://twitter.com/Delia_marlena_
 <a href="https://github.com/deliaswe/convoychat">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliaswe&hide_progress=true" />
 </a>
+
+## License
+- [MIT](#MIT)
+
+![GitHub all releases](https://img.shields.io/github/downloads/deliaswe/Professional-Readme-Generator/total?label=Delia%20young&logo=github&logoColor=%23ff69b4&style=for-the-badge)
