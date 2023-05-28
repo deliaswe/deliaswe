@@ -36,8 +36,7 @@ https://twitter.com/Delia_marlena_
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## Stats summary
-
+## Stats summary📊
 <a href="https://github.com/deliaswe/github-readme-stats">
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=deliaswe&show_icons=true&theme=radical" />
 </a>
