@@ -1,13 +1,14 @@
-  <img src="https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e" alt="bg image" width="1200" height="500" />
+  <img src="https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e" alt="bg image" width="1100" height="500" />
 
 ## Hello, I'm Delia! 👋🏽
 
 ## I'm a passionate Junior Software Developer. I am performance-driven, knowledgeable, and detail-oriented professional with significant ability to perform and collabrate well in team environments. 
 
-- I am currently working on.. JavaScript, CSS, HTML, Node.js, JQuery, and BootStrap.
-- I am currently learning on Node.js, MySQL, React, Heroku, Express.js, and MongoDB.
-- I am knowledgeable in AutoCAD, Visual Design, Hand Drafting, and Adobe.
-- Fun fact: I love traveling, nature, waterparks, and coding.
+- 💻 I am currently working on.. JavaScript, CSS, HTML, Node.js, JQuery, and BootStrap.
+- ⚡️ I am currently learning on Node.js, MySQL, React, Heroku, Express.js, and MongoDB.
+- 👩🏾‍🎨 I am knowledgeable in AutoCAD, Visual Design, Hand Drafting, and Adobe.
+- 👯‍ I am looking to collaborate with other developers. 
+- ✈️ Fun fact: I love traveling, nature, waterparks, and coding.
 
 ## Connect with me:
 Email: deliamy1014@gmail.com
