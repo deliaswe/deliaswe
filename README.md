@@ -1,5 +1,9 @@
 <a href="https://github.com/deliaswe/github-readme-stats">
-  <img align="center" width="65%" src="https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e" />
+  <img style="object-fit:contain;
+            align:"center"
+            width:"50%"
+            height:"50%"
+            border: solid 1px #CCC" src="https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e" />
 
 ## Hello, I'm Delia! 👋🏽
 
