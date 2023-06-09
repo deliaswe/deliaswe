@@ -2,7 +2,7 @@
 
 ## Hello, I'm Delia! 👋🏽
 
-## I'm a passionate Junior Software Developer. I am performance-driven, knowledgeable, and detail-oriented professional with significant ability to perform and collabrate well in team environments. 
+## I am a versatile and passionate professional with a diverse background in the medical field and a newfound passion for software development. As a Junior Software Developer, I am performance-driven, knowledgeable, and detail-oriented professional with significant ability to perform and collabrate well in team environments. 
 
 - 💻 I am currently working on.. JavaScript, CSS, HTML, Node.js, JQuery, and BootStrap.
 - ⚡️ I am currently learning.. GraphQL, MySQL, React, Heroku, Express.js, Jest, and MongoDB.
