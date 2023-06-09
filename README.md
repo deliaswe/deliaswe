@@ -1,4 +1,4 @@
-  <img src="https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e" alt="bg image" width="1100" height="500" />
+  <img src="https://github.com/deliaswe/deliaswe/assets/113808453/ed818c03-c17a-45f8-a533-8e886f72ce0e" alt="bg image" width="1050" height="450" />
 
 ## Hello, I'm Delia! 👋🏽
 
