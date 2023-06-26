@@ -3,7 +3,7 @@
 
 ## I am a versatile and passionate professional with a diverse background in the medical field and a newfound passion for software development. As a Software Developer, my sole purpose is to continuously learn. I am a performance-driven, knowledgeable, and detail-oriented professional with a significant ability to perform and collaborate well in team environments. 
 
-- 💻 I am currently working on... JavaScript, CSS, HTML, Node.js, JQuery, and BootStrap.
+- 💻 I am currently working on... JavaScript, CSS, HTML, Node.js, jQuery, and BootStrap.
 - ⚡️ I am currently learning... GraphQL, MySQL, React, Heroku, Express.js, Jest, and MongoDB.
 - 👩🏾‍🎨 I am knowledgeable in AutoCAD, Visual Design, Hand Drafting, and Adobe.
 - 👯‍ I am looking to collaborate with other developers. 
