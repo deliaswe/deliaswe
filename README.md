@@ -44,3 +44,8 @@ https://twitter.com/Delia_marlena_
 - ![MIT License](https://img.shields.io/badge/license-MIT-pink)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/deliaswe/Professional-Readme-Generator/total?label=Delia%20young&logo=github&logoColor=%23ff69b4&style=for-the-badge)
+
+## Profile
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
+</p>
