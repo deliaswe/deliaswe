@@ -10,13 +10,13 @@
 - ✈️ Fun fact: I love traveling, nature, waterparks, and coding.
 
 ## Connect with me:
-Email: deliamy1014@gmail.com
+[Email](deliamy1014@gmail.com)
 
-https://www.linkedin.com/in/delia-young-662801100/
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/delia-young-662801100/)
 
-https://twitter.com/Delia_marlena_
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[Twitter X](https://twitter.com/Delia_marlena_)
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
@@ -41,7 +41,7 @@ https://twitter.com/Delia_marlena_
 </a>
 
 ## License
-- ![MIT License](https://img.shields.io/badge/license-MIT-pink)
+![MIT License](https://img.shields.io/badge/license-MIT-pink)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/deliaswe/Professional-Readme-Generator/total?label=Delia%20young&logo=github&logoColor=%23ff69b4&style=for-the-badge)
 
