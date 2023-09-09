@@ -10,7 +10,7 @@
 - ✈️ Fun fact: I love traveling, nature, waterparks, and coding.
 
 ## Connect with me:
-[Email](deliamy1014@gmail.com)
+Email: deliamy1014@gmail.com
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [LinkedIn](https://www.linkedin.com/in/delia-young-662801100/)
