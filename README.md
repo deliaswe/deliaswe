@@ -3,8 +3,7 @@
 
 ## I am a versatile and passionate professional with a diverse background in healthcare and interior architecture with a newfound passion for software development. As a Software Developer, my sole purpose is to continuously learn. I am a performance-driven, knowledgeable, and detail-oriented professional with a significant ability to perform and collaborate well in team environments. 
 
-- 💻 I am currently working on... JavaScript, CSS, HTML, Node.js, jQuery, and BootStrap.
-- ⚡️ I am currently learning... GraphQL, MySQL, React, Heroku, Express.js, Jest, and MongoDB.
+- 💻 I am currently working on... JavaScript, CSS, HTML, Node, jQuery, BootStrap, GraphQL, MySQL, React, Heroku, Netlify, Express, Jest, and MongoDB.
 - 👩🏾‍🎨 I am knowledgeable in AutoCAD, Visual Design, Hand Drafting, and Adobe.
 - 👯‍ I am looking to collaborate with other developers. 
 - ✈️ Fun fact: I love traveling, nature, waterparks, and coding.
@@ -47,5 +46,5 @@ Email: deliamy1014@gmail.com
 
 ## Profile
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=deliaswe&color=ff69b4&style=flat-square" alt="deliaswe profile views" />
 </p>
