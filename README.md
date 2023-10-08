@@ -1,5 +1,5 @@
 ## Hello, I'm Delia! 👋🏽
-<img src="https://github.com/deliaswe/deliaswe/assets/113808453/66a9cd96-b0ed-4271-94bb-36492579b856.png" alt="bg image" width="800" height="350"  />
+<img src="https://github.com/deliaswe/deliaswe/assets/113808453/395208fe-1067-452c-bcf4-a4ea63de7c74.png" alt="bg image" width="800" height="250"  />
 
 ## I am a versatile and passionate professional with a diverse background in healthcare and interior architecture with a newfound passion for software development. As a Software Developer, my sole purpose is to continuously learn. I am a performance-driven, knowledgeable, and detail-oriented professional with a significant ability to perform and collaborate well in team environments. 
 
