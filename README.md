@@ -46,5 +46,5 @@ Email: deliamy1014@gmail.com
 
 ## Profile
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=deliaswe&color=ff69b4&style=flat-square" alt="deliaswe profile views" />
+  <img align="center" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fdeliaswe&label=Delia's%20GitHub%20Visitors&labelColor=%23f47373&countColor=%23f47373" alt="deliaswe profile views" />
 </p>
