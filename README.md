@@ -1,7 +1,8 @@
 ## Hello, I'm Delia! 👋🏽
 <img src="https://github.com/deliaswe/deliaswe/assets/113808453/395208fe-1067-452c-bcf4-a4ea63de7c74.png" alt="bg image" width="800" height="250"  />
 
-## I am a versatile and passionate professional with a diverse background in healthcare and interior architecture with a newfound passion for software development. As a Software Developer, my sole purpose is to continuously learn. I am a performance-driven, knowledgeable, and detail-oriented professional with a significant ability to perform and collaborate well in team environments. 
+## About Me
+I am a versatile and passionate professional with a diverse background in healthcare and interior architecture with a newfound passion for software development. As a Software Developer, my sole purpose is to continuously learn. I am a performance-driven, knowledgeable, and detail-oriented professional with a significant ability to perform and collaborate well in team environments. 
 
 - 💻 I am currently working on... JavaScript, CSS, HTML, Node, jQuery, BootStrap, GraphQL, MySQL, React, Heroku, Netlify, Express, Jest, and MongoDB.
 - 👩🏾‍🎨 I am knowledgeable in AutoCAD, Visual Design, Hand Drafting, and Adobe.
